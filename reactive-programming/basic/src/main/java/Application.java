@@ -1,7 +1,8 @@
 
 public class Application {
     public static void main(String[] args){
-        FluxDemo.createFlux();
-        MonoDemo.createMono();
+//        FluxDemo.createFlux();
+//        MonoDemo.createMono();
+        SubscribeMethodDemo.subscribe();
     }
 }
